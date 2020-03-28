@@ -1,0 +1,26 @@
+{
+  "name": "npm-init.js",
+  "version": "1.0.0",
+  "description": "creating bullshit",
+  "main": "modaltest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dyealex/ProjectTest.git"
+  },
+  "author": "Diane Alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dyealex/ProjectTest/issues"
+  },
+  "homepage": "https://github.com/Dyealex/ProjectTest#readme",
+  "keywords": [
+    "no",
+    "keywords"
+  ],
+  "dependencies": {
+    "left-pad": "^1.3.0"
+  }
+}

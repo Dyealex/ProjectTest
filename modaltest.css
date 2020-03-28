@@ -1,0 +1,26 @@
+/* modal test */
+.modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate( -50%, -50%);
+
+}
+
+.modal-body {
+    width: 500px;
+    height: 200px;
+    box-shadow: -8px -5px grey;
+    border: 3px solid indianred;
+    padding: 2%;
+    border-radius: 2%;
+    z-index: 10;
+    background-color: mediumspringgreen;
+}
+
+.modal-header {
+    padding: 5px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
